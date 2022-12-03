@@ -28,7 +28,7 @@ I am PlumEvo (aka Nishant Nirwan), I enjoy using my skills to contribute to the 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=plumevo&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=DD4C15)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plumevo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plumevo&layout=compact&theme=vision-friendly-dark)](https://github.com/plumevo/github-readme-stats)
 
 
 
