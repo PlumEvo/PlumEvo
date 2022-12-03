@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+   <source media="(prefers-color-scheme: dark)" srcset="https://data.whicdn.com/images/97132081/original.gif">
+   <source media="(prefers-color-scheme: light)" srcset="https://i.gifer.com/FPcs.gif">
+   <img src="https://data.whicdn.com/images/97132081/original.gif"/>
+</div>
 <!--
 **PlumEvo/PlumEvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
