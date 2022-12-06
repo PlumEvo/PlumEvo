@@ -9,7 +9,7 @@ I am PlumEvo (aka Nishant Nirwan), I enjoy using my skills to contribute to the 
 - 🌱 Nurturing My C & C++ skills
 - 🤔 Looking for help with my Mental Health website
 - 💬 Smile when ever you can,
-- 📫 Find me on: 
+- 📫 Find me on:
 <p>&nbsp;</p>
 <div align="center">
   <a href="https://discord.gg/xaWhY7YA">
