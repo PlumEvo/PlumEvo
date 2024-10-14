@@ -1,8 +1,8 @@
 ### Hello  There 👋 Traveller !! 
 <picture>
-   <img align="center" alt="Hope youre having a good day out there!!" src="[https://data.whicdn.com/images/97132081/original.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2oxd2V6MWtmaWx6b2J4M3JueHZ3M3Z2YzB3MXNoMWdycmh5Njg4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hR2FOszEa5kqI/giphy.gif)">
+   <img align="center" alt="Hope youre having a good day out there!!" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2oxd2V6MWtmaWx6b2J4M3JueHZ3M3Z2YzB3MXNoMWdycmh5Njg4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hR2FOszEa5kqI/giphy.gif">
 </picture>
-
+<p></p>
 I am PlumEvo (aka Nishant Nirwan), I enjoy using my skills to contribute to the exciting technological advances that happen every day.
 
 - 🔭 Working on my Problem solving and Intuition skills 
